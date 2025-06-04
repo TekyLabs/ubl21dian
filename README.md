@@ -31,7 +31,7 @@ Paquete para facturación electrónica en Colombia.
 Use Composer para instalar la librería:
 
 ```bash
-composer require ubl21dian/torresoftware
+composer require ubl21dian/tekylabs
 ```
 
 ## Basic usage / Uso básico

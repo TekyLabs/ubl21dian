@@ -94,7 +94,7 @@ class SOAP extends Sign
      * @var array
      */
     protected $ids = [
-        'wsuBinarySecurityTokenID' => 'TORRESOFTWARE',
+        'wsuBinarySecurityTokenID' => 'TEKYLABS',
         'securityTokenReferenceID' => 'STR',
         'signatureID' => 'SIG',
         'timestampID' => 'TS',
